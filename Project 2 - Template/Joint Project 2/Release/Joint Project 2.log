@@ -1,0 +1,22 @@
+﻿  Cell.cpp
+  Pacman.cpp
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\pacman.cpp(11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\pacman.cpp(12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\pacman.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\pacman.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\pacman.cpp(197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ghost.cpp
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\ghost.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\ghost.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\ghost.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\ghost.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\ghost.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\ghost.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\game.cpp(105): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\game.cpp(186): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\dylan\onedrive\desktop\dylans - project 2\project 2 - template\joint project 2\game.cpp(325): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Joint Project 2.vcxproj -> C:\Users\Dylan\OneDrive\Desktop\Dylans - Project 2\Project 2 - Template\Release\Joint Project 2.exe

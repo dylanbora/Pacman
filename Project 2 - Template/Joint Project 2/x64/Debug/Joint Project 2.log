@@ -1,0 +1,6 @@
+﻿  Pacman.cpp
+  Ghost.cpp
+  Game.cpp
+c:\users\c00242050\desktop\dylans - project 1\project 2 - template\joint project 2\game.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
